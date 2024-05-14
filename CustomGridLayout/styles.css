@@ -1,0 +1,31 @@
+.grid-container {
+        background-color: red;
+        display: grid;
+
+        grid-template-columns: auto auto auto ;
+}
+
+.grid-box-1{
+    color: blue;
+    background-color: black;
+}
+.grid-box-2{
+    color: blueviolet;
+    background-color:bisque;
+}
+.grid-box-3{
+    color: brown;
+    background-color: aliceblue;
+}
+.grid-box-4{
+    color: black;
+    background-color: green;
+}
+.grid-box-5{
+    color: pink;
+    background-color: gray;
+}
+.grid-box-6{
+    color: orange;
+    background-color: blueviolet;
+}
